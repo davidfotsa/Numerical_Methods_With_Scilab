@@ -7,5 +7,6 @@ Here you are supposed to find :
 - Interpolation / extrapolation : Vandermonde, Lagrange, Newton, Richardson, Aitken
 - Integration : Rectangle, Trapezis, Simpson, Pncelet, Newton-Côtes, Romberg
 - Differentiation and Differential equations: Euler, Runge-kutta, Taylor, middle point, theta-scheme, ADI
+- Sensivity analysis using LHC-PRCC
 
 Feel free to contact me !
